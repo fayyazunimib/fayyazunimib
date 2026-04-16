@@ -18,8 +18,8 @@ Education:
 
 Experience:
   
-   - Software Engineer - Alibaba Group (Daraz)
-   - Software Engineer - JS Bank Ltd
+   - Software Engineer (Backend & Data) - Alibaba Group (Daraz)
+   - Software Engineer (Data & Automation) - JS Bank Ltd
 ```
 
 
@@ -37,7 +37,7 @@ Experience:
 
 
 
-## 📋 Table of Contents
+## 📋 Boredom Stuff
 | S No. | Project                          | Type                                                                | Description                                                       | Link                                                                                  |
 |-------|----------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 1     | Resaurant ERP                    | `Backend Engineering - Django- Rest API - JWT - OAuth - Docker - Redis - Celery ` | A complete Scalable, Production Ready Docker Containerized Restaurnt ERP System     | https://github.com/Fayyaz6137/Restaurant-Management-A-to-Z                            |
