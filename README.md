@@ -10,6 +10,7 @@
 Name: Fayyaz Hussain Shah
 Email: fayyazhs107@gmail.com
 LinkedIn: https://www.linkedin.com/in/fayyazhs107/
+GitHub: https://github.com/Fayyaz6137
 
 Education:
 
